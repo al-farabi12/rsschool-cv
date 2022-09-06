@@ -42,7 +42,7 @@ ordered list
 
 ` inline codes <p> hello</p> with `
 
-<!-- ![markdownlogo](https://markdown-here.com/img/icon256.png "linkhint") -->
+![markdownlogo](https://markdown-here.com/img/icon256.png "linkhint")
 
 ```python
     def hello():
